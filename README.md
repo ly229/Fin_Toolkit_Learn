@@ -1,7 +1,7 @@
 # Stock Related Python Tools
 
 ## Introduction
-Here is a collection of Python for Stock programs for gathering, manipulating, and analyzing stock market data.
+Here are a collection of Python for Stock programs for gathering, manipulating, and analyzing stock market data.
 
 
 ## Sections:
