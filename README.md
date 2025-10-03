@@ -10,7 +10,7 @@ This repository is organized into several key sections:
 ### [Stock Alert](/find_stocks)
 Programs to screen stocks based on technical and fundamental analysis.
 
-### [GMM Practice]
+### [GMM Practice](/prediction_comparison)
 Programs the GMM regression and some prediction results.
 
 ![Performance Plot](Data_Analysis/imgaes/predicted_cpr.png)
