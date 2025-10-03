@@ -12,3 +12,6 @@ Programs to screen stocks based on technical and fundamental analysis.
 
 ### [GMM Practice]
 Programs the GMM regression and some prediction results.
+
+![Performance Plot](Data_Analysis/imgaes/predicted_cpr.png)
+![Performance Plot](Data_Analysis/imgaes/residual_dis.png)
